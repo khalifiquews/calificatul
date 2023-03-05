@@ -1,0 +1,2 @@
+# calificatul
+my profile config

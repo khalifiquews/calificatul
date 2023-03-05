@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=verlox&color=blueviolet)
 
-<img src="https://discord.c99.nl/widget/theme-2/1076264463721836564.png></img>
+<img src="https://discord.c99.nl/widget/theme-2/1076264463721836564.png"></img>
 
 </div>
 
